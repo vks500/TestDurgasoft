@@ -1,1 +1,6 @@
-Ram is good bay
+#!/bin/bash
+echo "cloning the data"
+echo ""
+date
+
+
